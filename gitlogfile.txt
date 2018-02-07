@@ -1,0 +1,5 @@
+#!/Bin/Bash
+
+echo "git log info"
+
+git log |
